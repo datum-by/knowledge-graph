@@ -1,0 +1,25 @@
+{
+  "name": "knowledge-graph",
+  "version": "1.0.0",
+  "description": "Knowledge graph",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datum-by/knowledge-graph.git"
+  },
+  "keywords": [
+    "RDF",
+    "Knowledges",
+    "Jena",
+    "SOH"
+  ],
+  "author": "Denis Krivichanin <krivichaninds@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/datum-by/knowledge-graph/issues"
+  },
+  "homepage": "https://github.com/datum-by/knowledge-graph#readme"
+}
